@@ -96,7 +96,7 @@ if __name__ == "__main__":
     # GitHub repository details
     github_username = "paranomicvibes"
     github_repo_name = "X"
-    github_access_token = "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"
+    github_access_token = "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"
 
     # SSH server details
     ssh_server = "root@segfault.net"
